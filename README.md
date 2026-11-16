@@ -5,7 +5,7 @@
 Proyecto de portafolio · Noviembre 2026
 Herramientas: SQL (Google BigQuery), Looker Studio, Microsoft Excel, R
 
-**Dashboard interactivo:** `[pegar aquí el enlace de Looker Studio]`
+**Dashboard interactivo:** `https://datastudio.google.com/reporting/4a26fa19-c433-4f92-8d8d-1f757b48c914`
 
 ---
 
